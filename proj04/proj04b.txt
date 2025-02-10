@@ -1,0 +1,178 @@
+//
+// cs4900
+// Project 04
+// Shapiy Sagiev
+// w1140sxs
+// Due 22 Feb 2024, accepted up to Feb 23 10pm
+// System = fry
+// Compiler syntax = ./compile.sh proj04b.c
+// Job Control File = proj04b.sbatch
+// Additional File  = NA
+// Results file     = proj04b.txt
+//
+
+===========================VECTOR MATH===========================
+==============OPTION 1 RUN==============
+Starting to process vector dot sum with L1=10, A=1, B=-1, Ap=45, Bp=45
+L1=10^1: 
+The vector lengths are 1 elements long
+The dot product is 1.000000
+
+Starting to process vector dot sum with L1=100, A=1, B=-1, Ap=45, Bp=45
+L1=10^2: 
+The vector lengths are 7 elements long
+The dot product is 1.000000
+
+Starting to process vector dot sum with L1=1000, A=1, B=-1, Ap=45, Bp=45
+L1=10^3: 
+The vector lengths are 63 elements long
+The dot product is 0.999999
+
+Starting to process vector dot sum with L1=10000, A=1, B=-1, Ap=45, Bp=45
+L1=10^4: 
+The vector lengths are 625 elements long
+The dot product is 1.000015
+
+Starting to process vector dot sum with L1=100000, A=1, B=-1, Ap=45, Bp=45
+L1=10^5: 
+The vector lengths are 6250 elements long
+The dot product is 0.999938
+
+Starting to process vector dot sum with L1=1000000, A=1, B=-1, Ap=45, Bp=45
+L1=10^6: 
+The vector lengths are 62500 elements long
+The dot product is 1.000628
+
+Starting to process vector dot sum with L1=10000000, A=1, B=-1, Ap=45, Bp=45
+L1=10^7: 
+The vector lengths are 625000 elements long
+The dot product is 0.983827
+
+Starting to process vector dot sum with L1=100000000, A=1, B=-1, Ap=45, Bp=45
+L1=10^8: 
+The vector lengths are 6250000 elements long
+The dot product is 1.040221
+
+Starting to process vector dot sum with L1=1000000000, A=1, B=-1, Ap=45, Bp=45
+L1=10^9: 
+The vector lengths are 62500000 elements long
+The dot product is 0.390625
+
+===========================VECTOR MATH===========================
+==============OPTION 2 RUN==============
+Starting to process vector dot sum with L1=10, A=1, B=2, Ap=22, Bp=90
+L1=10^1: 
+The vector lengths are 1 elements long
+The dot product is 0.000000
+
+Starting to process vector dot sum with L1=100, A=1, B=25, Ap=22, Bp=90
+L1=10^2: 
+The vector lengths are 7 elements long
+The dot product is -0.000000
+
+Starting to process vector dot sum with L1=1000, A=1, B=250, Ap=22, Bp=90
+L1=10^3: 
+The vector lengths are 63 elements long
+The dot product is 0.000002
+
+Starting to process vector dot sum with L1=10000, A=1, B=2500, Ap=22, Bp=90
+L1=10^4: 
+The vector lengths are 625 elements long
+The dot product is 0.000009
+
+Starting to process vector dot sum with L1=100000, A=1, B=25000, Ap=22, Bp=90
+L1=10^5: 
+The vector lengths are 6250 elements long
+The dot product is -0.000022
+
+Starting to process vector dot sum with L1=1000000, A=1, B=250000, Ap=22, Bp=90
+L1=10^6: 
+The vector lengths are 62500 elements long
+The dot product is -0.000003
+
+Starting to process vector dot sum with L1=10000000, A=1, B=2500000, Ap=22, Bp=90
+L1=10^7: 
+The vector lengths are 625000 elements long
+The dot product is -0.000011
+
+Starting to process vector dot sum with L1=100000000, A=1, B=25000000, Ap=22, Bp=90
+L1=10^8: 
+The vector lengths are 6250000 elements long
+The dot product is -0.365071
+
+Starting to process vector dot sum with L1=1000000000, A=1, B=250000000, Ap=22, Bp=90
+L1=10^9: 
+The vector lengths are 62500000 elements long
+The dot product is 0.043457
+
+===========================VECTOR MATH===========================
+==============OPTION 3 RUN==============
+Starting to process vector dot sum with L1=10, A=1, B=22, Ap=75, Bp=135
+L1=10^1: 
+The vector lengths are 1 elements long
+The dot product is 0.000002
+
+Starting to process vector dot sum with L1=100, A=1, B=220, Ap=75, Bp=135
+L1=10^2: 
+The vector lengths are 7 elements long
+The dot product is 0.000001
+
+Starting to process vector dot sum with L1=1000, A=1, B=2200, Ap=75, Bp=135
+L1=10^3: 
+The vector lengths are 63 elements long
+The dot product is 0.000006
+
+Starting to process vector dot sum with L1=10000, A=1, B=22000, Ap=75, Bp=135
+L1=10^4: 
+The vector lengths are 625 elements long
+The dot product is -0.000150
+
+Starting to process vector dot sum with L1=100000, A=1, B=220000, Ap=75, Bp=135
+L1=10^5: 
+The vector lengths are 6250 elements long
+The dot product is 0.000010
+
+Starting to process vector dot sum with L1=1000000, A=1, B=2200000, Ap=75, Bp=135
+L1=10^6: 
+The vector lengths are 62500 elements long
+The dot product is -0.000036
+
+Starting to process vector dot sum with L1=10000000, A=1, B=22000000, Ap=75, Bp=135
+L1=10^7: 
+The vector lengths are 625000 elements long
+The dot product is 0.000001
+
+Starting to process vector dot sum with L1=100000000, A=1, B=220000000, Ap=75, Bp=135
+L1=10^8: 
+The vector lengths are 6250000 elements long
+The dot product is -0.626460
+
+Starting to process vector dot sum with L1=1000000000, A=1, B=-2147483648, Ap=75, Bp=135
+L1=10^9: 
+The vector lengths are 62500000 elements long
+The dot product is -0.072266
+
+===========================MATRIX MATH===========================
+==============OPTION 1 RUN==============
+Matrix Results
+Matrix Size: [1000 x 1000]
+Partitions handle at least 63 Rows.
+The diagonal sum is: 0.999975
+Matrix total sum (w/o diagonal sum) is: 998.863892
+Matrix Results
+Matrix Size: [100000 x 100000]
+Partitions handle at least 6250 Rows.
+The diagonal sum is: 0.999969
+Matrix total sum (w/o diagonal sum) is: 4351.000000
+===========================MATRIX MATH===========================
+==============OPTION 2 RUN==============
+Matrix Results
+Matrix Size: [1000 x 1000]
+Partitions handle at least 63 Rows.
+The diagonal sum is: 0.011004
+Matrix total sum (w/o diagonal sum) is: 11.065498
+Matrix Results
+Matrix Size: [100000 x 100000]
+Partitions handle at least 6250 Rows.
+The diagonal sum is: -0.001940
+Matrix total sum (w/o diagonal sum) is: 0.001953

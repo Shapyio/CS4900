@@ -1,0 +1,15 @@
+[node02.cluster:3099858] Read -1, expected 20000, errno = 1
+[node02.cluster:3099859] Read -1, expected 20000, errno = 1
+[node02.cluster:3099859] Read -1, expected 20000, errno = 1
+[node02.cluster:3099858] Read -1, expected 20000, errno = 1
+rhs=00 epsilon=0.000025
+rhs=01 epsilon=0.000033
+rhs=02 epsilon=0.000015
+rhs=03 epsilon=0.000040
+rhs=04 epsilon=0.000019
+rhs=05 epsilon=0.000020
+rhs=06 epsilon=0.000012
+rhs=07 epsilon=0.000032
+rhs=08 epsilon=0.000010
+rhs=09 epsilon=0.000021
+n=1000  Elapsed wallclock time is 0.639411

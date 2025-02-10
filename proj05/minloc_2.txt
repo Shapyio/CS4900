@@ -1,0 +1,50 @@
+run one
+[0] minval=-494139.031250 localIndex=61
+[1] minval=-487869.500000 localIndex=89
+[2] minval=-465378.750000 localIndex=77
+[0] Result: minval=-494139.031250 globalIndex= 183 minrank=0 localIndex=61
+
+
+
+run two
+[1] minval=-499081.031250 localIndex=57
+[2] minval=-491638.062500 localIndex=58
+[0] minval=-497146.156250 localIndex=91
+[0] Result: minval=-499081.031250 globalIndex= 172 minrank=1 localIndex=57
+
+
+
+run three
+[0] minval=-475186.343750 localIndex=42
+[2] minval=-485773.656250 localIndex=97
+[1] minval=-485188.312500 localIndex=27
+[0] Result: minval=-485773.656250 globalIndex= 293 minrank=2 localIndex=97
+
+
+
+run four
+[0] minval=-494836.875000 localIndex=6
+[2] minval=-491571.812500 localIndex=54
+[1] minval=-484365.093750 localIndex=21
+[0] Result: minval=-494836.875000 globalIndex= 18 minrank=0 localIndex=6
+
+
+
+run five
+[6] minval=-498035.406250 localIndex=89
+[11] minval=-484272.687500 localIndex=13
+[12] minval=-485822.093750 localIndex=32
+[13] minval=-496895.937500 localIndex=84
+[14] minval=-496519.593750 localIndex=49
+[15] minval=-499322.781250 localIndex=41
+[0] minval=-472964.843750 localIndex=97
+[0] Result: minval=-499322.781250 globalIndex= 671 minrank=15 localIndex=41
+[1] minval=-495296.000000 localIndex=16
+[2] minval=-494925.281250 localIndex=25
+[3] minval=-480914.187500 localIndex=52
+[4] minval=-496642.468750 localIndex=42
+[5] minval=-497754.343750 localIndex=74
+[7] minval=-495437.843750 localIndex=55
+[8] minval=-492776.437500 localIndex=95
+[9] minval=-490609.406250 localIndex=37
+[10] minval=-488848.718750 localIndex=88

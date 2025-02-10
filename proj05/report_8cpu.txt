@@ -1,0 +1,11 @@
+rhs=00 epsilon=0.000175
+rhs=01 epsilon=0.000117
+rhs=02 epsilon=0.000298
+rhs=03 epsilon=0.000071
+rhs=04 epsilon=0.000528
+rhs=05 epsilon=0.000282
+rhs=06 epsilon=0.000591
+rhs=07 epsilon=0.000109
+rhs=08 epsilon=0.000072
+rhs=09 epsilon=0.000209
+n=10000  Elapsed wallclock time is 176.619

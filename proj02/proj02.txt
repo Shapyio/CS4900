@@ -1,0 +1,26 @@
+#
+# cs4900-01
+# Project 02
+# Shapiy Sagiev
+# w1140sxs
+# Due 25 Jan 2024, accepted  up to 10pm Jan 26
+# System = fry
+# Compiler syntax  = NA
+# Job Control File = proj02.sbatch
+# Additional File  = NA
+# Results file     = proj02.txt
+#
+
+Tue Jan 23 16:05:21 CST 2024
+Starting decryption...
+001 001 001
+030 122 004
+031 050 026
+023 107 119
+008 011 079
+048 093 046
+064 128 100
+All done
+Tue Jan 23 16:24:25 CST 2024
+
+Program runtime: 1144 seconds

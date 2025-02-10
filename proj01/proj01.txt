@@ -1,0 +1,17 @@
+proj01.sh 1 2 2
+sum=5
+average=1.7
+max=2
+min=1
+
+proj01.sh -1 -5 0 -2 -4
+sum=-12
+average=-2.4
+max=0
+min=-5
+
+proj01.sh 111
+sum=111
+average=111
+max=111
+min=111

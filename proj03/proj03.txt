@@ -1,0 +1,85 @@
+
+Loop #1
+M=3175 P=2069
+use(pi=4M/N) pi~3.175000
+use(pi=2M/P) pi~3.069116
+
+Loop #2
+M=6340 P=4115
+use(pi=4M/N) pi~3.170000
+use(pi=2M/P) pi~3.081409
+
+Loop #3
+M=9536 P=6176
+use(pi=4M/N) pi~3.178667
+use(pi=2M/P) pi~3.088083
+
+Loop #4
+M=12747 P=8263
+use(pi=4M/N) pi~3.186750
+use(pi=2M/P) pi~3.085320
+
+Loop #5
+M=15950 P=10345
+use(pi=4M/N) pi~3.190000
+use(pi=2M/P) pi~3.083615
+
+Loop #6
+M=19151 P=12413
+use(pi=4M/N) pi~3.191833
+use(pi=2M/P) pi~3.085636
+
+Loop #7
+M=22359 P=14496
+use(pi=4M/N) pi~3.194143
+use(pi=2M/P) pi~3.084851
+
+Loop #8
+M=25555 P=16557
+use(pi=4M/N) pi~3.194375
+use(pi=2M/P) pi~3.086912
+
+Loop #9
+M=28742 P=18621
+use(pi=4M/N) pi~3.193556
+use(pi=2M/P) pi~3.087052
+
+Loop #10
+M=31927 P=20680
+use(pi=4M/N) pi~3.192700
+use(pi=2M/P) pi~3.087718
+
+Loop #11
+M=35147 P=22758
+use(pi=4M/N) pi~3.195182
+use(pi=2M/P) pi~3.088760
+
+Loop #12
+M=38340 P=24829
+use(pi=4M/N) pi~3.195000
+use(pi=2M/P) pi~3.088324
+
+Loop #13
+M=41536 P=26906
+use(pi=4M/N) pi~3.195077
+use(pi=2M/P) pi~3.087490
+
+Loop #14
+M=44733 P=28973
+use(pi=4M/N) pi~3.195214
+use(pi=2M/P) pi~3.087909
+
+Loop #15
+M=47913 P=31038
+use(pi=4M/N) pi~3.194200
+use(pi=2M/P) pi~3.087377
+
+Results
+ncpus: 4
+Time Spent: 0.021538
+N Value: 1000
+Iterations: 15
+M Total: 44733
+P Total: 28973
+N Total: 60000
+Epsilon: 0.001000

@@ -1,0 +1,5 @@
+[0] minval=-9973.000000 minrank=2 minindex=533
+[0] minval=-9990.000000 minrank=2 minindex=221
+[0] minval=-9993.000000 minrank=0 minindex=90
+[0] minval=-9999.000000 minrank=2 minindex=746
+[0] minval=-10000.000000 minrank=5 minindex=534
